@@ -4,8 +4,8 @@
 
 📫 If you have any questions, please feel free to contact us at the email address: yangzhenye@bupt.edu.cn
 
-😄 Published papers:
-- 2025.4 SIGIR'25 x1
+😄 Published papers:<br>
+- 2025.4 SIGIR'25 x1<br>
 - ...
 
 <!--
