@@ -5,8 +5,8 @@
 📫 If you have any questions, please feel free to contact us at the email address: yangzhenye@bupt.edu.cn
 
 😄 Published papers:
-2025.4 SIGIR'25 x1
-...
+- 2025.4 SIGIR'25 x1
+- ...
 
 <!--
 **Alex-bupt/Alex-bupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
