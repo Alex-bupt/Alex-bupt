@@ -6,7 +6,7 @@
 
 😄 Published papers:<br>
 - 2025.4 SIGIR'25 x1<br>
-- 2025.7 CIKM'25 x1<br>
+- 2025.8 CIKM'25 x1<br>
 - ...
 
 <!--
