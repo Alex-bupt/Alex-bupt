@@ -7,6 +7,8 @@
 😄 Published papers:<br>
 - 2025.4 SIGIR'25 x1<br>
 - 2025.8 CIKM'25 x1<br>
+- 2025.8 ICDM'25 x1<br>
+- 2025.8 TCSS'25 x1<br>
 - ...
 
 <!--
