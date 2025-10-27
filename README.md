@@ -11,6 +11,8 @@
 - 2025.8 TCSS x1<br>
 - ...
 
+More information about me: https://acdc-lab.github.io/Alex-bupt
+
 <!--
 **Alex-bupt/Alex-bupt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
